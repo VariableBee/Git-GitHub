@@ -13,9 +13,9 @@ Ou adicionar um repositório ja existente usando "git remote add origin <link>"
 Você pode checar por alterações no repositório com "git status"
 Qualquer alteração nos arquivos do seu repositório vai requerir que você use "git add nomearquivo.md"
 Por fim, você vai commitar essas mudanças com "git commit -m "comentário".
+Além disso, pode ver quais foram as commits anteriores com "git log" ou "git log--oneline"
 ## Como fazer push/pull requests?
 Use "git push/pull origin/branch"
 ## Como clonar um repositório?
 Use "git clone <https>"
-## Como checar mudanças anteriores?
-Use "git log"
+
